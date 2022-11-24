@@ -5,6 +5,12 @@
 *.png
 *.jpg
 *.pyc
+
+*.deb
+*.weights
+*.a
+*.so
+
 old/
 mnist/
 data/
